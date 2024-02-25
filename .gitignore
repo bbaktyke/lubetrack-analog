@@ -1,0 +1,13 @@
+.idea/
+*.svg
+*.json
+*.zip
+bin/
+*.json
+*.zip
+/bin
+.env
+vendor/
+cmd/tmp/
+build/
+.DS_Store
